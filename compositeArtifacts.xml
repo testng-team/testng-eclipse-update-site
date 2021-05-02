@@ -20,5 +20,6 @@
     <child location="7.1.1"/>
     <child location="7.2.0"/>
     <child location="7.3.0"/>
+    <child location="7.4.0"/>
   </children>
 </repository>
