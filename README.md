@@ -4,6 +4,7 @@ TestNG Eclipse Plugin Update Site
 Main update site URL: https://testng.org/testng-eclipse-update-site
 
 Versioned update site URL:
+* https://testng.org/testng-eclipse-update-site/7.11.0
 * https://testng.org/testng-eclipse-update-site/7.10.2
 * https://testng.org/testng-eclipse-update-site/7.10.0
 * https://testng.org/testng-eclipse-update-site/7.9.0

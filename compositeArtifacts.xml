@@ -25,5 +25,6 @@
     <child location="7.9.0"/>
     <child location="7.10.0"/>
     <child location="7.10.2"/>
+    <child location="7.11.0"/>
   </children>
 </repository>
