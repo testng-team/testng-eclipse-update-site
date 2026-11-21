@@ -4,6 +4,6 @@
     <property name="p2.atomic.composite.loading" value="true"/>
   </properties>
   <children size="3">
-    <child location="../updatesites/7.12.0.202611210213"/>
+    <child location="../updatesites/7.12.0.202611210305"/>
   </children>
 </repository>
